@@ -4,3 +4,8 @@ body{
 	font-family: sans-serif;
 	font-size: 2em;
 }
+
+p{
+	color:yellow;
+	font-style: italic;
+}
